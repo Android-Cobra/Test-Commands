@@ -1,3 +1,0 @@
-This is a dummyfile just for the sake of testing the add command
-
-This is new line added to this file
